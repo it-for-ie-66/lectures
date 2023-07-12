@@ -39,8 +39,8 @@ export const useFolderChain = (
         parentId = null;
       }
     }
-
-    return folderChain.slice(1);
+    const folderChainRemovedRoot = folderChain.slice(1);
+    return folderChainRemovedRoot;
   }, [currentFolderId, fileMap]);
 };
 
