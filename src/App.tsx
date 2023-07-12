@@ -1,12 +1,11 @@
-import Files from "./components/Files";
+import FileBrowser from "./components/FileBrowser";
 import useData from "./lib/useData";
 
 function App() {
   useData();
-
   return (
     <div>
-      <Files />
+      <FileBrowser />
     </div>
   );
 }

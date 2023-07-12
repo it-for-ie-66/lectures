@@ -1,19 +1,16 @@
 import { useEffect } from "react";
 import { useFileMapStore } from "./store";
-
+import { type FileMapData } from "./types";
 async function getData() {
   const res = await fetch("/filemap.json");
-  const data = await res.json();
+  const data = (await res.json()) as FileMapData;
   return data;
 }
 function useData() {
-  const [setData] = useFileMapStore((state) => [state.setData]);
-
+  const [setFileMapData] = useFileMapStore((state) => [state.setFileMapData]);
   useEffect(() => {
-    console.log("useData");
     getData().then((data) => {
-      console.log(data);
-      setData(data);
+      setFileMapData(data);
     });
   }, []);
 }
