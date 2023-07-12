@@ -2,12 +2,14 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
+import Files from "./components/Files";
+import useData from "./lib/useData";
 function App() {
-  const [count, setCount] = useState(0);
+  useData();
 
   return (
     <div>
-      <a href="/lectures/T01 - Introduction/T01.pdf">Test</a>
+      <Files />
     </div>
   );
 }
