@@ -3,7 +3,7 @@ import { useFileMapStore } from "./store";
 import { type FileMapData } from "./types";
 import { findFolderIdByName } from "./useFileMap";
 async function getData() {
-  const res = await fetch("/filemap.json");
+  const res = await fetch("/filemap/filemap.json");
   const data = (await res.json()) as FileMapData;
   return data;
 }
