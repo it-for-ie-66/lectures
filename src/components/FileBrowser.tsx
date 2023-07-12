@@ -31,7 +31,7 @@ const FileBrowser = () => {
             console.log("Opening Folder:", file);
             setCurrentFolder(file.id);
           } else {
-            const fileURL = `/${url}/${file.name}`;
+            const fileURL = `./${url}/${file.name}`;
             console.log("Opening File:", fileURL);
             window.open(fileURL);
           }
