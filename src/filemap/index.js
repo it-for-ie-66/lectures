@@ -101,9 +101,10 @@ async function walkDirectory(dir, rootFolderName) {
   return fileMap;
 }
 
-const fullPath = join(__dirname, "../../", "public", "lectures");
-walkDirectory(fullPath, "lectures").then((res) => {
-  writeFileSync(join(__dirname, "filemap.json"), JSON.stringify(res, null, 2));
+const publicPath = join(__dirname, "../../", "public");
+const rootDir = join(publicPath, "lectures");
+walkDirectory(publicPath, rootDir).then((res) => {
+  writeFileSync(join(publicPath, "filemap.json"), JSON.stringify(res, null, 2));
 });
 
 export default {
