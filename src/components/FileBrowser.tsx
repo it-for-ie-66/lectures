@@ -42,7 +42,7 @@ const FileBrowser = () => {
   );
 
   return (
-    <div style={{ height: 600 }}>
+    <div style={{ height: "75vh" }}>
       <FullFileBrowser
         files={files}
         folderChain={folderChain}
