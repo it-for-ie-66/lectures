@@ -104,7 +104,10 @@ async function walkDirectory(dir, rootFolderName) {
 const publicPath = join(__dirname, "../../", "public");
 const rootDir = join(publicPath, "lectures");
 walkDirectory(publicPath, rootDir).then((res) => {
-  writeFileSync(join(publicPath, "filemap.json"), JSON.stringify(res, null, 2));
+  writeFileSync(
+    join(publicPath, "filemap", "filemap.json"),
+    JSON.stringify(res, null, 2)
+  );
 });
 
 export default {

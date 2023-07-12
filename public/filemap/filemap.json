@@ -1,736 +1,792 @@
 {
-  "rootFolderId": "350963013-281474979951750",
+  "rootFolderId": "1720154340-1688849861230886",
   "fileMap": {
-    "350963013-281474979951750": {
-      "id": "350963013-281474979951750",
-      "name": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures",
+    "1720154340-281474978599019": {
+      "id": "1720154340-281474978599019",
+      "name": "filemap",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951751",
-        "350963013-281474979951752",
-        "350963013-281474979951828"
+        "1720154340-281474978599020"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap",
+      "parentId": "1720154340-1688849861230886"
     },
-    "350963013-281474979951751": {
-      "id": "350963013-281474979951751",
+    "1720154340-1688849861230886": {
+      "id": "1720154340-1688849861230886",
+      "name": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures",
+      "isDir": true,
+      "childrenIds": [
+        "1720154340-281474978599019",
+        "1720154340-281474978599018",
+        "1720154340-1407374885306632",
+        "1720154340-1688849861230905"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public"
+    },
+    "1720154340-281474978599020": {
+      "id": "1720154340-281474978599020",
       "name": "filemap.json",
-      "parentId": "350963013-281474979951750",
-      "size": 28906,
-      "modDate": "2023-07-12T03:05:51.684Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\filemap.json"
+      "parentId": "1720154340-281474978599019",
+      "size": 29641,
+      "modDate": "2023-07-12T22:27:08.029Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap\\filemap.json"
     },
-    "350963013-281474979951752": {
-      "id": "350963013-281474979951752",
+    "1720154340-281474978599018": {
+      "id": "1720154340-281474978599018",
+      "name": "filemap.json",
+      "parentId": "1720154340-1688849861230886",
+      "size": 31779,
+      "modDate": "2023-07-12T23:10:43.027Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap.json"
+    },
+    "1720154340-1407374885306632": {
+      "id": "1720154340-1407374885306632",
       "name": "lectures",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951753",
-        "350963013-281474979951764",
-        "350963013-281474979951771",
-        "350963013-281474979951780",
-        "350963013-281474979951798",
-        "350963013-281474979951804",
-        "350963013-281474979951811",
-        "350963013-281474979951817"
+        "1720154340-1125899908595984",
+        "1720154340-2251799815544307",
+        "1720154340-2251799815544315",
+        "1720154340-281474978581737",
+        "1720154340-281474978581755",
+        "1720154340-281474978581761",
+        "1720154340-281474978581768",
+        "1720154340-281474978581774",
+        "1720154340-281474978599021"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures",
-      "parentId": "350963013-281474979951750"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures",
+      "parentId": "1720154340-1688849861230886"
     },
-    "350963013-281474979951753": {
-      "id": "350963013-281474979951753",
+    "1720154340-1125899908595984": {
+      "id": "1720154340-1125899908595984",
       "name": "T01 - Introduction",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951757",
-        "350963013-281474979951754",
-        "350963013-281474979951755",
-        "350963013-281474979951756"
+        "1720154340-2251799815544298",
+        "1720154340-1407374885306645",
+        "1720154340-844424931885397",
+        "1720154340-2251799815544297"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951757": {
-      "id": "350963013-281474979951757",
+    "1720154340-2251799815544298": {
+      "id": "1720154340-2251799815544298",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951759",
-        "350963013-281474979951758",
-        "350963013-281474979951760",
-        "350963013-281474979951761",
-        "350963013-281474979951762",
-        "350963013-281474979951763"
+        "1720154340-2251799815544299",
+        "1720154340-2251799815544302",
+        "1720154340-2251799815544303",
+        "1720154340-2251799815544304",
+        "1720154340-2251799815544305",
+        "1720154340-2251799815544306"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img",
-      "parentId": "350963013-281474979951753"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img",
+      "parentId": "1720154340-1125899908595984"
     },
-    "350963013-281474979951759": {
-      "id": "350963013-281474979951759",
+    "1720154340-2251799815544299": {
+      "id": "1720154340-2251799815544299",
       "name": "firebase.png",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 4601,
-      "modDate": "2023-07-12T02:54:46.738Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\firebase.png"
+      "modDate": "2023-06-21T23:18:24.648Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\firebase.png"
     },
-    "350963013-281474979951758": {
-      "id": "350963013-281474979951758",
+    "1720154340-2251799815544302": {
+      "id": "1720154340-2251799815544302",
       "name": "Front-end-vs-back-end.jpg",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 98314,
-      "modDate": "2023-07-12T02:54:46.738Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\Front-end-vs-back-end.jpg"
+      "modDate": "2023-06-21T23:18:24.648Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\Front-end-vs-back-end.jpg"
     },
-    "350963013-281474979951760": {
-      "id": "350963013-281474979951760",
+    "1720154340-2251799815544303": {
+      "id": "1720154340-2251799815544303",
       "name": "htmlcssjs.png",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 18267,
-      "modDate": "2023-07-12T02:54:46.739Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\htmlcssjs.png"
+      "modDate": "2023-06-21T23:18:24.648Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\htmlcssjs.png"
     },
-    "350963013-281474979951761": {
-      "id": "350963013-281474979951761",
+    "1720154340-2251799815544304": {
+      "id": "1720154340-2251799815544304",
       "name": "programmer.jpg",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 46751,
-      "modDate": "2023-07-12T02:54:46.739Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\programmer.jpg"
+      "modDate": "2023-06-21T23:18:24.649Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\programmer.jpg"
     },
-    "350963013-281474979951762": {
-      "id": "350963013-281474979951762",
+    "1720154340-2251799815544305": {
+      "id": "1720154340-2251799815544305",
       "name": "softwaredesktop.png",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 445862,
-      "modDate": "2023-07-12T02:54:46.742Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\softwaredesktop.png"
+      "modDate": "2023-06-21T23:18:24.653Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\softwaredesktop.png"
     },
-    "350963013-281474979951763": {
-      "id": "350963013-281474979951763",
+    "1720154340-2251799815544306": {
+      "id": "1720154340-2251799815544306",
       "name": "vscode.png",
-      "parentId": "350963013-281474979951757",
+      "parentId": "1720154340-2251799815544298",
       "size": 130561,
-      "modDate": "2023-07-12T02:54:46.743Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\img\\vscode.png"
+      "modDate": "2023-06-21T23:18:24.654Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\img\\vscode.png"
     },
-    "350963013-281474979951754": {
-      "id": "350963013-281474979951754",
+    "1720154340-1407374885306645": {
+      "id": "1720154340-1407374885306645",
       "name": "T01.html",
-      "parentId": "350963013-281474979951753",
-      "size": 111318,
-      "modDate": "2023-07-12T02:54:46.731Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.html"
+      "parentId": "1720154340-1125899908595984",
+      "size": 111124,
+      "modDate": "2023-06-28T09:24:18.567Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\T01.html"
     },
-    "350963013-281474979951755": {
-      "id": "350963013-281474979951755",
+    "1720154340-844424931885397": {
+      "id": "1720154340-844424931885397",
       "name": "T01.md",
-      "parentId": "350963013-281474979951753",
+      "parentId": "1720154340-1125899908595984",
       "size": 3359,
-      "modDate": "2023-07-12T02:54:46.731Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.md"
+      "modDate": "2023-06-21T23:18:24.641Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\T01.md"
     },
-    "350963013-281474979951756": {
-      "id": "350963013-281474979951756",
+    "1720154340-2251799815544297": {
+      "id": "1720154340-2251799815544297",
       "name": "T01.pdf",
-      "parentId": "350963013-281474979951753",
+      "parentId": "1720154340-1125899908595984",
       "size": 910236,
-      "modDate": "2023-07-12T02:54:46.737Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T01 - Introduction\\T01.pdf"
+      "modDate": "2023-06-28T23:46:57.260Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T01 - Introduction\\T01.pdf"
     },
-    "350963013-281474979951764": {
-      "id": "350963013-281474979951764",
+    "1720154340-2251799815544307": {
+      "id": "1720154340-2251799815544307",
       "name": "T02 - HTML",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951768",
-        "350963013-281474979951765",
-        "350963013-281474979951766",
-        "350963013-281474979951767"
+        "1720154340-2251799815544311",
+        "1720154340-2251799815544308",
+        "1720154340-2251799815544309",
+        "1720154340-2251799815544310"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951768": {
-      "id": "350963013-281474979951768",
+    "1720154340-2251799815544311": {
+      "id": "1720154340-2251799815544311",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951769",
-        "350963013-281474979951770"
+        "1720154340-2251799815544312",
+        "1720154340-2251799815544313"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img",
-      "parentId": "350963013-281474979951764"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\img",
+      "parentId": "1720154340-2251799815544307"
     },
-    "350963013-281474979951769": {
-      "id": "350963013-281474979951769",
+    "1720154340-2251799815544312": {
+      "id": "1720154340-2251799815544312",
       "name": "attribute.png",
-      "parentId": "350963013-281474979951768",
+      "parentId": "1720154340-2251799815544311",
       "size": 8048,
-      "modDate": "2023-07-12T02:54:46.745Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img\\attribute.png"
+      "modDate": "2023-06-21T23:18:24.656Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\img\\attribute.png"
     },
-    "350963013-281474979951770": {
-      "id": "350963013-281474979951770",
+    "1720154340-2251799815544313": {
+      "id": "1720154340-2251799815544313",
       "name": "htmltag.png",
-      "parentId": "350963013-281474979951768",
+      "parentId": "1720154340-2251799815544311",
       "size": 8330,
-      "modDate": "2023-07-12T02:54:46.745Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\img\\htmltag.png"
+      "modDate": "2023-06-21T23:18:24.656Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\img\\htmltag.png"
     },
-    "350963013-281474979951765": {
-      "id": "350963013-281474979951765",
+    "1720154340-2251799815544308": {
+      "id": "1720154340-2251799815544308",
       "name": "T02.html",
-      "parentId": "350963013-281474979951764",
-      "size": 116730,
-      "modDate": "2023-07-12T02:54:46.744Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.html"
+      "parentId": "1720154340-2251799815544307",
+      "size": 116521,
+      "modDate": "2023-06-28T09:24:18.780Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\T02.html"
     },
-    "350963013-281474979951766": {
-      "id": "350963013-281474979951766",
+    "1720154340-2251799815544309": {
+      "id": "1720154340-2251799815544309",
       "name": "T02.md",
-      "parentId": "350963013-281474979951764",
+      "parentId": "1720154340-2251799815544307",
       "size": 3862,
-      "modDate": "2023-07-12T02:54:46.744Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.md"
+      "modDate": "2023-06-21T23:18:24.655Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\T02.md"
     },
-    "350963013-281474979951767": {
-      "id": "350963013-281474979951767",
+    "1720154340-2251799815544310": {
+      "id": "1720154340-2251799815544310",
       "name": "T02.pdf",
-      "parentId": "350963013-281474979951764",
+      "parentId": "1720154340-2251799815544307",
       "size": 140018,
-      "modDate": "2023-07-12T02:54:46.745Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T02 - HTML\\T02.pdf"
+      "modDate": "2023-06-28T23:46:57.262Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T02 - HTML\\T02.pdf"
     },
-    "350963013-281474979951771": {
-      "id": "350963013-281474979951771",
+    "1720154340-2251799815544315": {
+      "id": "1720154340-2251799815544315",
       "name": "T03 - CSS 1",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951775",
-        "350963013-281474979951778",
-        "350963013-281474979951772",
-        "350963013-281474979951773",
-        "350963013-281474979951774"
+        "1720154340-2251799815544321",
+        "1720154340-281474978581735",
+        "1720154340-2251799815544316",
+        "1720154340-2251799815544318",
+        "1720154340-2251799815544320"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951775": {
-      "id": "350963013-281474979951775",
+    "1720154340-2251799815544321": {
+      "id": "1720154340-2251799815544321",
       "name": "code",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951777",
-        "350963013-281474979951776"
+        "1720154340-281474978581733",
+        "1720154340-281474978581734"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\code",
-      "parentId": "350963013-281474979951771"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\code",
+      "parentId": "1720154340-2251799815544315"
     },
-    "350963013-281474979951777": {
-      "id": "350963013-281474979951777",
+    "1720154340-281474978581733": {
+      "id": "1720154340-281474978581733",
       "name": "style.css",
-      "parentId": "350963013-281474979951775",
+      "parentId": "1720154340-2251799815544321",
       "size": 1096,
-      "modDate": "2023-07-12T02:54:46.748Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\code\\style.css"
+      "modDate": "2023-06-25T13:20:27.753Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\code\\style.css"
     },
-    "350963013-281474979951776": {
-      "id": "350963013-281474979951776",
+    "1720154340-281474978581734": {
+      "id": "1720154340-281474978581734",
       "name": "_index.html",
-      "parentId": "350963013-281474979951775",
+      "parentId": "1720154340-2251799815544321",
       "size": 869,
-      "modDate": "2023-07-12T02:54:46.748Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\code\\_index.html"
+      "modDate": "2023-06-25T13:20:27.753Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\code\\_index.html"
     },
-    "350963013-281474979951778": {
-      "id": "350963013-281474979951778",
+    "1720154340-281474978581735": {
+      "id": "1720154340-281474978581735",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951779"
+        "1720154340-281474978581736"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\img",
-      "parentId": "350963013-281474979951771"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\img",
+      "parentId": "1720154340-2251799815544315"
     },
-    "350963013-281474979951779": {
-      "id": "350963013-281474979951779",
+    "1720154340-281474978581736": {
+      "id": "1720154340-281474978581736",
       "name": "css_dec.png",
-      "parentId": "350963013-281474979951778",
+      "parentId": "1720154340-281474978581735",
       "size": 7603,
-      "modDate": "2023-07-12T02:54:46.748Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\img\\css_dec.png"
+      "modDate": "2023-06-25T13:20:27.753Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\img\\css_dec.png"
     },
-    "350963013-281474979951772": {
-      "id": "350963013-281474979951772",
+    "1720154340-2251799815544316": {
+      "id": "1720154340-2251799815544316",
       "name": "T03.html",
-      "parentId": "350963013-281474979951771",
-      "size": 115379,
-      "modDate": "2023-07-12T02:54:46.746Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\T03.html"
+      "parentId": "1720154340-2251799815544315",
+      "size": 115138,
+      "modDate": "2023-06-28T09:24:19.024Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\T03.html"
     },
-    "350963013-281474979951773": {
-      "id": "350963013-281474979951773",
+    "1720154340-2251799815544318": {
+      "id": "1720154340-2251799815544318",
       "name": "T03.md",
-      "parentId": "350963013-281474979951771",
+      "parentId": "1720154340-2251799815544315",
       "size": 4123,
-      "modDate": "2023-07-12T02:54:46.746Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\T03.md"
+      "modDate": "2023-06-25T13:20:27.751Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\T03.md"
     },
-    "350963013-281474979951774": {
-      "id": "350963013-281474979951774",
+    "1720154340-2251799815544320": {
+      "id": "1720154340-2251799815544320",
       "name": "T03.pdf",
-      "parentId": "350963013-281474979951771",
+      "parentId": "1720154340-2251799815544315",
       "size": 131218,
-      "modDate": "2023-07-12T02:54:46.747Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T03 - CSS 1\\T03.pdf"
+      "modDate": "2023-06-28T23:46:57.263Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T03 - CSS 1\\T03.pdf"
     },
-    "350963013-281474979951780": {
-      "id": "350963013-281474979951780",
+    "1720154340-281474978581737": {
+      "id": "1720154340-281474978581737",
       "name": "T04 - CSS 2",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951784",
-        "350963013-281474979951791",
-        "350963013-281474979951781",
-        "350963013-281474979951782",
-        "350963013-281474979951783"
+        "1720154340-281474978581741",
+        "1720154340-281474978581748",
+        "1720154340-281474978581738",
+        "1720154340-281474978581739",
+        "1720154340-281474978581740"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951784": {
-      "id": "350963013-281474979951784",
+    "1720154340-281474978581741": {
+      "id": "1720154340-281474978581741",
       "name": "code",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951785",
-        "350963013-281474979951788"
+        "1720154340-281474978581742",
+        "1720154340-281474978581745"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code",
-      "parentId": "350963013-281474979951780"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code",
+      "parentId": "1720154340-281474978581737"
     },
-    "350963013-281474979951785": {
-      "id": "350963013-281474979951785",
+    "1720154340-281474978581742": {
+      "id": "1720154340-281474978581742",
       "name": "demo",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951787",
-        "350963013-281474979951786"
+        "1720154340-281474978581743",
+        "1720154340-281474978581744"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo",
-      "parentId": "350963013-281474979951784"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo",
+      "parentId": "1720154340-281474978581741"
     },
-    "350963013-281474979951787": {
-      "id": "350963013-281474979951787",
+    "1720154340-281474978581743": {
+      "id": "1720154340-281474978581743",
       "name": "style.css",
-      "parentId": "350963013-281474979951785",
+      "parentId": "1720154340-281474978581742",
       "size": 2947,
-      "modDate": "2023-07-12T02:54:46.752Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo\\style.css"
+      "modDate": "2023-06-25T15:28:05.249Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo\\style.css"
     },
-    "350963013-281474979951786": {
-      "id": "350963013-281474979951786",
+    "1720154340-281474978581744": {
+      "id": "1720154340-281474978581744",
       "name": "_index.html",
-      "parentId": "350963013-281474979951785",
+      "parentId": "1720154340-281474978581742",
       "size": 1838,
-      "modDate": "2023-07-12T02:54:46.752Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo\\_index.html"
+      "modDate": "2023-06-25T15:28:05.248Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\demo\\_index.html"
     },
-    "350963013-281474979951788": {
-      "id": "350963013-281474979951788",
+    "1720154340-281474978581745": {
+      "id": "1720154340-281474978581745",
       "name": "web",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951790",
-        "350963013-281474979951789"
+        "1720154340-281474978581746",
+        "1720154340-281474978581747"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web",
-      "parentId": "350963013-281474979951784"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web",
+      "parentId": "1720154340-281474978581741"
     },
-    "350963013-281474979951790": {
-      "id": "350963013-281474979951790",
+    "1720154340-281474978581746": {
+      "id": "1720154340-281474978581746",
       "name": "style.css",
-      "parentId": "350963013-281474979951788",
+      "parentId": "1720154340-281474978581745",
       "size": 568,
-      "modDate": "2023-07-12T02:54:46.752Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web\\style.css"
+      "modDate": "2023-06-25T15:28:05.250Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web\\style.css"
     },
-    "350963013-281474979951789": {
-      "id": "350963013-281474979951789",
+    "1720154340-281474978581747": {
+      "id": "1720154340-281474978581747",
       "name": "_index.html",
-      "parentId": "350963013-281474979951788",
+      "parentId": "1720154340-281474978581745",
       "size": 899,
-      "modDate": "2023-07-12T02:54:46.752Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web\\_index.html"
+      "modDate": "2023-06-25T15:28:05.250Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\code\\web\\_index.html"
     },
-    "350963013-281474979951791": {
-      "id": "350963013-281474979951791",
+    "1720154340-281474978581748": {
+      "id": "1720154340-281474978581748",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951792",
-        "350963013-281474979951793",
-        "350963013-281474979951794",
-        "350963013-281474979951795",
-        "350963013-281474979951796",
-        "350963013-281474979951797"
+        "1720154340-281474978581749",
+        "1720154340-281474978581750",
+        "1720154340-281474978581751",
+        "1720154340-281474978581752",
+        "1720154340-281474978581753",
+        "1720154340-281474978581754"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img",
-      "parentId": "350963013-281474979951780"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img",
+      "parentId": "1720154340-281474978581737"
     },
-    "350963013-281474979951792": {
-      "id": "350963013-281474979951792",
+    "1720154340-281474978581749": {
+      "id": "1720154340-281474978581749",
       "name": "box_model.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 68326,
-      "modDate": "2023-07-12T02:54:46.753Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\box_model.png"
+      "modDate": "2023-06-25T13:20:27.760Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\box_model.png"
     },
-    "350963013-281474979951793": {
-      "id": "350963013-281474979951793",
+    "1720154340-281474978581750": {
+      "id": "1720154340-281474978581750",
       "name": "flex_terminology.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 13519,
-      "modDate": "2023-07-12T02:54:46.753Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\flex_terminology.png"
+      "modDate": "2023-06-25T13:20:27.761Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\flex_terminology.png"
     },
-    "350963013-281474979951794": {
-      "id": "350963013-281474979951794",
+    "1720154340-281474978581751": {
+      "id": "1720154340-281474978581751",
       "name": "font_support.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 81194,
-      "modDate": "2023-07-12T02:54:46.754Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\font_support.png"
+      "modDate": "2023-06-25T13:20:27.762Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\font_support.png"
     },
-    "350963013-281474979951795": {
-      "id": "350963013-281474979951795",
+    "1720154340-281474978581752": {
+      "id": "1720154340-281474978581752",
       "name": "margin1.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 23614,
-      "modDate": "2023-07-12T02:54:46.754Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\margin1.png"
+      "modDate": "2023-06-25T13:20:27.763Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\margin1.png"
     },
-    "350963013-281474979951796": {
-      "id": "350963013-281474979951796",
+    "1720154340-281474978581753": {
+      "id": "1720154340-281474978581753",
       "name": "margin2.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 49009,
-      "modDate": "2023-07-12T02:54:46.755Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\margin2.png"
+      "modDate": "2023-06-25T13:20:27.764Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\margin2.png"
     },
-    "350963013-281474979951797": {
-      "id": "350963013-281474979951797",
+    "1720154340-281474978581754": {
+      "id": "1720154340-281474978581754",
       "name": "padding.png",
-      "parentId": "350963013-281474979951791",
+      "parentId": "1720154340-281474978581748",
       "size": 21928,
-      "modDate": "2023-07-12T02:54:46.755Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\img\\padding.png"
+      "modDate": "2023-06-25T13:20:27.765Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\img\\padding.png"
     },
-    "350963013-281474979951781": {
-      "id": "350963013-281474979951781",
+    "1720154340-281474978581738": {
+      "id": "1720154340-281474978581738",
       "name": "T04.html",
-      "parentId": "350963013-281474979951780",
-      "size": 137252,
-      "modDate": "2023-07-12T02:54:46.749Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\T04.html"
+      "parentId": "1720154340-281474978581737",
+      "size": 136670,
+      "modDate": "2023-06-28T09:24:18.914Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\T04.html"
     },
-    "350963013-281474979951782": {
-      "id": "350963013-281474979951782",
+    "1720154340-281474978581739": {
+      "id": "1720154340-281474978581739",
       "name": "T04.md",
-      "parentId": "350963013-281474979951780",
+      "parentId": "1720154340-281474978581737",
       "size": 9575,
-      "modDate": "2023-07-12T02:54:46.749Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\T04.md"
+      "modDate": "2023-06-25T15:28:05.243Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\T04.md"
     },
-    "350963013-281474979951783": {
-      "id": "350963013-281474979951783",
+    "1720154340-281474978581740": {
+      "id": "1720154340-281474978581740",
       "name": "T04.pdf",
-      "parentId": "350963013-281474979951780",
+      "parentId": "1720154340-281474978581737",
       "size": 398071,
-      "modDate": "2023-07-12T02:54:46.751Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T04 - CSS 2\\T04.pdf"
+      "modDate": "2023-06-28T23:46:57.266Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T04 - CSS 2\\T04.pdf"
     },
-    "350963013-281474979951798": {
-      "id": "350963013-281474979951798",
+    "1720154340-281474978581755": {
+      "id": "1720154340-281474978581755",
       "name": "T05 - JavaScript",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951802",
-        "350963013-281474979951799",
-        "350963013-281474979951800",
-        "350963013-281474979951801"
+        "1720154340-281474978581759",
+        "1720154340-281474978581756",
+        "1720154340-281474978581757",
+        "1720154340-281474978581758"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951802": {
-      "id": "350963013-281474979951802",
+    "1720154340-281474978581759": {
+      "id": "1720154340-281474978581759",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951803"
+        "1720154340-281474978581760"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript\\img",
-      "parentId": "350963013-281474979951798"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript\\img",
+      "parentId": "1720154340-281474978581755"
     },
-    "350963013-281474979951803": {
-      "id": "350963013-281474979951803",
+    "1720154340-281474978581760": {
+      "id": "1720154340-281474978581760",
       "name": "cake.png",
-      "parentId": "350963013-281474979951802",
+      "parentId": "1720154340-281474978581759",
       "size": 45215,
-      "modDate": "2023-07-12T02:54:46.757Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript\\img\\cake.png"
+      "modDate": "2023-06-28T23:46:57.269Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript\\img\\cake.png"
     },
-    "350963013-281474979951799": {
-      "id": "350963013-281474979951799",
+    "1720154340-281474978581756": {
+      "id": "1720154340-281474978581756",
       "name": "T05.html",
-      "parentId": "350963013-281474979951798",
+      "parentId": "1720154340-281474978581755",
       "size": 117239,
-      "modDate": "2023-07-12T02:54:46.755Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript\\T05.html"
+      "modDate": "2023-06-28T23:46:57.267Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript\\T05.html"
     },
-    "350963013-281474979951800": {
-      "id": "350963013-281474979951800",
+    "1720154340-281474978581757": {
+      "id": "1720154340-281474978581757",
       "name": "T05.md",
-      "parentId": "350963013-281474979951798",
+      "parentId": "1720154340-281474978581755",
       "size": 4409,
-      "modDate": "2023-07-12T02:54:46.756Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript\\T05.md"
+      "modDate": "2023-06-28T23:46:57.267Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript\\T05.md"
     },
-    "350963013-281474979951801": {
-      "id": "350963013-281474979951801",
+    "1720154340-281474978581758": {
+      "id": "1720154340-281474978581758",
       "name": "T05.pdf",
-      "parentId": "350963013-281474979951798",
+      "parentId": "1720154340-281474978581755",
       "size": 141073,
-      "modDate": "2023-07-12T02:54:46.757Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T05 - JavaScript\\T05.pdf"
+      "modDate": "2023-06-28T23:46:57.269Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T05 - JavaScript\\T05.pdf"
     },
-    "350963013-281474979951804": {
-      "id": "350963013-281474979951804",
+    "1720154340-281474978581761": {
+      "id": "1720154340-281474978581761",
       "name": "T06 - Typescript",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951808",
-        "350963013-281474979951805",
-        "350963013-281474979951806",
-        "350963013-281474979951807"
+        "1720154340-281474978581765",
+        "1720154340-281474978581762",
+        "1720154340-281474978581763",
+        "1720154340-281474978581764"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951808": {
-      "id": "350963013-281474979951808",
+    "1720154340-281474978581765": {
+      "id": "1720154340-281474978581765",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951809",
-        "350963013-281474979951810"
+        "1720154340-281474978581766",
+        "1720154340-281474978581767"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\img",
-      "parentId": "350963013-281474979951804"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\img",
+      "parentId": "1720154340-281474978581761"
     },
-    "350963013-281474979951809": {
-      "id": "350963013-281474979951809",
+    "1720154340-281474978581766": {
+      "id": "1720154340-281474978581766",
       "name": "jsts.png",
-      "parentId": "350963013-281474979951808",
+      "parentId": "1720154340-281474978581765",
       "size": 245496,
-      "modDate": "2023-07-12T02:54:46.760Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\img\\jsts.png"
+      "modDate": "2023-06-28T23:46:57.273Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\img\\jsts.png"
     },
-    "350963013-281474979951810": {
-      "id": "350963013-281474979951810",
+    "1720154340-281474978581767": {
+      "id": "1720154340-281474978581767",
       "name": "top.jpg",
-      "parentId": "350963013-281474979951808",
+      "parentId": "1720154340-281474978581765",
       "size": 40463,
-      "modDate": "2023-07-12T02:54:46.760Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\img\\top.jpg"
+      "modDate": "2023-06-28T23:46:57.274Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\img\\top.jpg"
     },
-    "350963013-281474979951805": {
-      "id": "350963013-281474979951805",
+    "1720154340-281474978581762": {
+      "id": "1720154340-281474978581762",
       "name": "T06.html",
-      "parentId": "350963013-281474979951804",
+      "parentId": "1720154340-281474978581761",
       "size": 107635,
-      "modDate": "2023-07-12T02:54:46.758Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\T06.html"
+      "modDate": "2023-06-28T23:46:57.270Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\T06.html"
     },
-    "350963013-281474979951806": {
-      "id": "350963013-281474979951806",
+    "1720154340-281474978581763": {
+      "id": "1720154340-281474978581763",
       "name": "T06.md",
-      "parentId": "350963013-281474979951804",
+      "parentId": "1720154340-281474978581761",
       "size": 2489,
-      "modDate": "2023-07-12T02:54:46.758Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\T06.md"
+      "modDate": "2023-06-28T23:46:57.271Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\T06.md"
     },
-    "350963013-281474979951807": {
-      "id": "350963013-281474979951807",
+    "1720154340-281474978581764": {
+      "id": "1720154340-281474978581764",
       "name": "T06.pdf",
-      "parentId": "350963013-281474979951804",
+      "parentId": "1720154340-281474978581761",
       "size": 118469,
-      "modDate": "2023-07-12T02:54:46.759Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T06 - Typescript\\T06.pdf"
+      "modDate": "2023-06-28T23:46:57.272Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T06 - Typescript\\T06.pdf"
     },
-    "350963013-281474979951811": {
-      "id": "350963013-281474979951811",
+    "1720154340-281474978581768": {
+      "id": "1720154340-281474978581768",
       "name": "T07 - DOM",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951815",
-        "350963013-281474979951812",
-        "350963013-281474979951813",
-        "350963013-281474979951814"
+        "1720154340-281474978581772",
+        "1720154340-281474978581769",
+        "1720154340-281474978581770",
+        "1720154340-281474978581771"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951815": {
-      "id": "350963013-281474979951815",
+    "1720154340-281474978581772": {
+      "id": "1720154340-281474978581772",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951816"
+        "1720154340-281474978581773"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM\\img",
-      "parentId": "350963013-281474979951811"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM\\img",
+      "parentId": "1720154340-281474978581768"
     },
-    "350963013-281474979951816": {
-      "id": "350963013-281474979951816",
+    "1720154340-281474978581773": {
+      "id": "1720154340-281474978581773",
       "name": "dom.jpg",
-      "parentId": "350963013-281474979951815",
+      "parentId": "1720154340-281474978581772",
       "size": 55948,
-      "modDate": "2023-07-12T02:54:46.763Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM\\img\\dom.jpg"
+      "modDate": "2023-07-09T08:53:19.721Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM\\img\\dom.jpg"
     },
-    "350963013-281474979951812": {
-      "id": "350963013-281474979951812",
+    "1720154340-281474978581769": {
+      "id": "1720154340-281474978581769",
       "name": "T07.html",
-      "parentId": "350963013-281474979951811",
+      "parentId": "1720154340-281474978581768",
       "size": 132744,
-      "modDate": "2023-07-12T02:54:46.761Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM\\T07.html"
+      "modDate": "2023-07-09T08:53:28.715Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM\\T07.html"
     },
-    "350963013-281474979951813": {
-      "id": "350963013-281474979951813",
+    "1720154340-281474978581770": {
+      "id": "1720154340-281474978581770",
       "name": "T07.md",
-      "parentId": "350963013-281474979951811",
+      "parentId": "1720154340-281474978581768",
       "size": 6920,
-      "modDate": "2023-07-12T02:54:46.761Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM\\T07.md"
+      "modDate": "2023-07-09T08:53:28.716Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM\\T07.md"
     },
-    "350963013-281474979951814": {
-      "id": "350963013-281474979951814",
+    "1720154340-281474978581771": {
+      "id": "1720154340-281474978581771",
       "name": "T07.pdf",
-      "parentId": "350963013-281474979951811",
+      "parentId": "1720154340-281474978581768",
       "size": 204441,
-      "modDate": "2023-07-12T02:54:46.762Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T07 - DOM\\T07.pdf"
+      "modDate": "2023-07-09T08:53:28.718Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T07 - DOM\\T07.pdf"
     },
-    "350963013-281474979951817": {
-      "id": "350963013-281474979951817",
+    "1720154340-281474978581774": {
+      "id": "1720154340-281474978581774",
       "name": "T08 - React",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951821",
-        "350963013-281474979951818",
-        "350963013-281474979951819",
-        "350963013-281474979951820"
+        "1720154340-281474978581778",
+        "1720154340-562949955292431",
+        "1720154340-281474978581776",
+        "1720154340-281474978581777"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React",
-      "parentId": "350963013-281474979951752"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React",
+      "parentId": "1720154340-1407374885306632"
     },
-    "350963013-281474979951821": {
-      "id": "350963013-281474979951821",
+    "1720154340-281474978581778": {
+      "id": "1720154340-281474978581778",
       "name": "img",
       "isDir": true,
       "childrenIds": [
-        "350963013-281474979951822",
-        "350963013-281474979951823",
-        "350963013-281474979951824",
-        "350963013-281474979951825",
-        "350963013-281474979951826",
-        "350963013-281474979951827"
+        "1720154340-281474978581779",
+        "1720154340-281474978581780",
+        "1720154340-281474978581781",
+        "1720154340-281474978581782",
+        "1720154340-281474978581783",
+        "1720154340-281474978581784"
       ],
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img",
-      "parentId": "350963013-281474979951817"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img",
+      "parentId": "1720154340-281474978581774"
     },
-    "350963013-281474979951822": {
-      "id": "350963013-281474979951822",
+    "1720154340-281474978581779": {
+      "id": "1720154340-281474978581779",
       "name": "list.jpg",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 12005,
-      "modDate": "2023-07-12T02:54:46.766Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\list.jpg"
+      "modDate": "2023-07-09T09:20:44.355Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\list.jpg"
     },
-    "350963013-281474979951823": {
-      "id": "350963013-281474979951823",
+    "1720154340-281474978581780": {
+      "id": "1720154340-281474978581780",
       "name": "react1.excalidraw",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 52138,
-      "modDate": "2023-07-12T02:54:46.766Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\react1.excalidraw"
+      "modDate": "2023-07-09T09:20:44.356Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\react1.excalidraw"
     },
-    "350963013-281474979951824": {
-      "id": "350963013-281474979951824",
+    "1720154340-281474978581781": {
+      "id": "1720154340-281474978581781",
       "name": "react1.png",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 126997,
-      "modDate": "2023-07-12T02:54:46.767Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\react1.png"
+      "modDate": "2023-07-09T09:20:44.357Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\react1.png"
     },
-    "350963013-281474979951825": {
-      "id": "350963013-281474979951825",
+    "1720154340-281474978581782": {
+      "id": "1720154340-281474978581782",
       "name": "react2.excalidraw",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 17827,
-      "modDate": "2023-07-12T02:54:46.767Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\react2.excalidraw"
+      "modDate": "2023-07-09T09:20:44.358Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\react2.excalidraw"
     },
-    "350963013-281474979951826": {
-      "id": "350963013-281474979951826",
+    "1720154340-281474978581783": {
+      "id": "1720154340-281474978581783",
       "name": "react2.png",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 83892,
-      "modDate": "2023-07-12T02:54:46.768Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\react2.png"
+      "modDate": "2023-07-09T09:20:44.359Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\react2.png"
     },
-    "350963013-281474979951827": {
-      "id": "350963013-281474979951827",
+    "1720154340-281474978581784": {
+      "id": "1720154340-281474978581784",
       "name": "vdom.png",
-      "parentId": "350963013-281474979951821",
+      "parentId": "1720154340-281474978581778",
       "size": 7461,
-      "modDate": "2023-07-12T02:54:46.768Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\img\\vdom.png"
+      "modDate": "2023-07-09T09:20:44.359Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\img\\vdom.png"
     },
-    "350963013-281474979951818": {
-      "id": "350963013-281474979951818",
+    "1720154340-562949955292431": {
+      "id": "1720154340-562949955292431",
       "name": "T08.html",
-      "parentId": "350963013-281474979951817",
+      "parentId": "1720154340-281474978581774",
       "size": 115009,
-      "modDate": "2023-07-12T02:54:46.763Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\T08.html"
+      "modDate": "2023-07-12T22:27:08.031Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\T08.html"
     },
-    "350963013-281474979951819": {
-      "id": "350963013-281474979951819",
+    "1720154340-281474978581776": {
+      "id": "1720154340-281474978581776",
       "name": "T08.md",
-      "parentId": "350963013-281474979951817",
+      "parentId": "1720154340-281474978581774",
       "size": 4003,
-      "modDate": "2023-07-12T02:54:46.764Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\T08.md"
+      "modDate": "2023-07-10T22:25:46.412Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\T08.md"
     },
-    "350963013-281474979951820": {
-      "id": "350963013-281474979951820",
+    "1720154340-281474978581777": {
+      "id": "1720154340-281474978581777",
       "name": "T08.pdf",
-      "parentId": "350963013-281474979951817",
+      "parentId": "1720154340-281474978581774",
       "size": 263391,
-      "modDate": "2023-07-12T02:54:46.765Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\lectures\\T08 - React\\T08.pdf"
+      "modDate": "2023-07-10T22:25:46.414Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T08 - React\\T08.pdf"
     },
-    "350963013-281474979951828": {
-      "id": "350963013-281474979951828",
+    "1720154340-281474978599021": {
+      "id": "1720154340-281474978599021",
+      "name": "T09 - React Basics",
+      "isDir": true,
+      "childrenIds": [
+        "1720154340-1125899908715293",
+        "1720154340-281474978599022",
+        "1720154340-1688849861839066"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics",
+      "parentId": "1720154340-1407374885306632"
+    },
+    "1720154340-1125899908715293": {
+      "id": "1720154340-1125899908715293",
+      "name": "T09.html",
+      "parentId": "1720154340-281474978599021",
+      "size": 110545,
+      "modDate": "2023-07-12T23:06:25.014Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.html"
+    },
+    "1720154340-281474978599022": {
+      "id": "1720154340-281474978599022",
+      "name": "T09.md",
+      "parentId": "1720154340-281474978599021",
+      "size": 2573,
+      "modDate": "2023-07-12T23:06:15.746Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.md"
+    },
+    "1720154340-1688849861839066": {
+      "id": "1720154340-1688849861839066",
+      "name": "T09.pdf",
+      "parentId": "1720154340-281474978599021",
+      "size": 82331,
+      "modDate": "2023-07-12T23:06:33.720Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.pdf"
+    },
+    "1720154340-1688849861230905": {
+      "id": "1720154340-1688849861230905",
       "name": "vite.svg",
-      "parentId": "350963013-281474979951750",
+      "parentId": "1720154340-1688849861230886",
       "size": 1497,
-      "modDate": "2023-07-12T02:54:46.769Z",
-      "fullPath": "C:\\Users\\admin\\Coding\\it-for-ie\\lectures\\public\\vite.svg"
+      "modDate": "2023-07-09T22:09:58.294Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\vite.svg"
     }
   }
 }
