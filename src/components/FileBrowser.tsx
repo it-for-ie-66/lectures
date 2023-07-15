@@ -20,7 +20,7 @@ const FileBrowser = () => {
   const folderChain = useFolderChain(currentFolder, fileMap);
   const url = folderChain.map((folder) => folder.name).join("/");
 
-  console.log(folderChain, url);
+  // console.log(folderChain, url);
   const handleAction = useCallback<FileActionHandler>(
     (data) => {
       // console.log("File action data:", data);

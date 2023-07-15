@@ -17,7 +17,6 @@
       "isDir": true,
       "childrenIds": [
         "1720154340-281474978599019",
-        "1720154340-281474978599018",
         "1720154340-1407374885306632",
         "1720154340-1688849861230905"
       ],
@@ -27,17 +26,9 @@
       "id": "1720154340-281474978599020",
       "name": "filemap.json",
       "parentId": "1720154340-281474978599019",
-      "size": 29641,
-      "modDate": "2023-07-12T22:27:08.029Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap\\filemap.json"
-    },
-    "1720154340-281474978599018": {
-      "id": "1720154340-281474978599018",
-      "name": "filemap.json",
-      "parentId": "1720154340-1688849861230886",
       "size": 31779,
-      "modDate": "2023-07-12T23:10:43.027Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap.json"
+      "modDate": "2023-07-12T23:11:15.071Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1720154340-1407374885306632": {
       "id": "1720154340-1407374885306632",
@@ -750,7 +741,7 @@
       "isDir": true,
       "childrenIds": [
         "1720154340-1125899908715293",
-        "1720154340-281474978599022",
+        "1720154340-1970324837088440",
         "1720154340-1688849861839066"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics",
@@ -760,24 +751,24 @@
       "id": "1720154340-1125899908715293",
       "name": "T09.html",
       "parentId": "1720154340-281474978599021",
-      "size": 110545,
-      "modDate": "2023-07-12T23:06:25.014Z",
+      "size": 117828,
+      "modDate": "2023-07-15T10:14:58.984Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.html"
     },
-    "1720154340-281474978599022": {
-      "id": "1720154340-281474978599022",
+    "1720154340-1970324837088440": {
+      "id": "1720154340-1970324837088440",
       "name": "T09.md",
       "parentId": "1720154340-281474978599021",
-      "size": 2573,
-      "modDate": "2023-07-12T23:06:15.746Z",
+      "size": 4165,
+      "modDate": "2023-07-15T10:13:50.904Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.md"
     },
     "1720154340-1688849861839066": {
       "id": "1720154340-1688849861839066",
       "name": "T09.pdf",
       "parentId": "1720154340-281474978599021",
-      "size": 82331,
-      "modDate": "2023-07-12T23:06:33.720Z",
+      "size": 120958,
+      "modDate": "2023-07-15T10:15:12.217Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.pdf"
     },
     "1720154340-1688849861230905": {
