@@ -26,8 +26,8 @@
       "id": "1720154340-281474978599020",
       "name": "filemap.json",
       "parentId": "1720154340-281474978599019",
-      "size": 31779,
-      "modDate": "2023-07-12T23:11:15.071Z",
+      "size": 31424,
+      "modDate": "2023-07-15T10:21:20.253Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1720154340-1407374885306632": {
@@ -43,7 +43,8 @@
         "1720154340-281474978581761",
         "1720154340-281474978581768",
         "1720154340-281474978581774",
-        "1720154340-281474978599021"
+        "1720154340-281474978599021",
+        "1720154340-1970324837967713"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures",
       "parentId": "1720154340-1688849861230886"
@@ -770,6 +771,42 @@
       "size": 120958,
       "modDate": "2023-07-15T10:15:12.217Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T09 - React Basics\\T09.pdf"
+    },
+    "1720154340-1970324837967713": {
+      "id": "1720154340-1970324837967713",
+      "name": "T10 - Data Fetching",
+      "isDir": true,
+      "childrenIds": [
+        "1720154340-7036874417876229",
+        "1720154340-2533274791389041",
+        "1720154340-5348024559257639"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching",
+      "parentId": "1720154340-1407374885306632"
+    },
+    "1720154340-7036874417876229": {
+      "id": "1720154340-7036874417876229",
+      "name": "T10.html",
+      "parentId": "1720154340-1970324837967713",
+      "size": 110183,
+      "modDate": "2023-07-25T22:22:36.645Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.html"
+    },
+    "1720154340-2533274791389041": {
+      "id": "1720154340-2533274791389041",
+      "name": "T10.md",
+      "parentId": "1720154340-1970324837967713",
+      "size": 3363,
+      "modDate": "2023-07-25T22:21:16.266Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.md"
+    },
+    "1720154340-5348024559257639": {
+      "id": "1720154340-5348024559257639",
+      "name": "T10.pdf",
+      "parentId": "1720154340-1970324837967713",
+      "size": 102669,
+      "modDate": "2023-07-25T22:22:47.197Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.pdf"
     },
     "1720154340-1688849861230905": {
       "id": "1720154340-1688849861230905",
