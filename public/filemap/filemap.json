@@ -26,8 +26,8 @@
       "id": "1720154340-281474978599020",
       "name": "filemap.json",
       "parentId": "1720154340-281474978599019",
-      "size": 31424,
-      "modDate": "2023-07-15T10:21:20.253Z",
+      "size": 32946,
+      "modDate": "2023-07-25T22:22:58.734Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1720154340-1407374885306632": {
@@ -44,7 +44,8 @@
         "1720154340-281474978581768",
         "1720154340-281474978581774",
         "1720154340-281474978599021",
-        "1720154340-1970324837967713"
+        "1720154340-1970324837967713",
+        "1720154340-17732923532811504"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures",
       "parentId": "1720154340-1688849861230886"
@@ -788,25 +789,61 @@
       "id": "1720154340-7036874417876229",
       "name": "T10.html",
       "parentId": "1720154340-1970324837967713",
-      "size": 110183,
-      "modDate": "2023-07-25T22:22:36.645Z",
+      "size": 110877,
+      "modDate": "2023-07-25T22:30:09.455Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.html"
     },
     "1720154340-2533274791389041": {
       "id": "1720154340-2533274791389041",
       "name": "T10.md",
       "parentId": "1720154340-1970324837967713",
-      "size": 3363,
-      "modDate": "2023-07-25T22:21:16.266Z",
+      "size": 3429,
+      "modDate": "2023-07-25T22:24:10.814Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.md"
     },
     "1720154340-5348024559257639": {
       "id": "1720154340-5348024559257639",
       "name": "T10.pdf",
       "parentId": "1720154340-1970324837967713",
-      "size": 102669,
-      "modDate": "2023-07-25T22:22:47.197Z",
+      "size": 104869,
+      "modDate": "2023-07-25T22:30:15.430Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T10 - Data Fetching\\T10.pdf"
+    },
+    "1720154340-17732923532811504": {
+      "id": "1720154340-17732923532811504",
+      "name": "T11 - Database",
+      "isDir": true,
+      "childrenIds": [
+        "1720154340-4503599628060098",
+        "1720154340-6473924464387952",
+        "1720154340-15762598695911302"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T11 - Database",
+      "parentId": "1720154340-1407374885306632"
+    },
+    "1720154340-4503599628060098": {
+      "id": "1720154340-4503599628060098",
+      "name": "T11.html",
+      "parentId": "1720154340-17732923532811504",
+      "size": 110646,
+      "modDate": "2023-08-01T23:24:08.613Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T11 - Database\\T11.html"
+    },
+    "1720154340-6473924464387952": {
+      "id": "1720154340-6473924464387952",
+      "name": "T11.md",
+      "parentId": "1720154340-17732923532811504",
+      "size": 2972,
+      "modDate": "2023-08-01T23:22:21.481Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T11 - Database\\T11.md"
+    },
+    "1720154340-15762598695911302": {
+      "id": "1720154340-15762598695911302",
+      "name": "T11.pdf",
+      "parentId": "1720154340-17732923532811504",
+      "size": 108764,
+      "modDate": "2023-08-01T23:24:24.100Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\it-for-ie-66\\lectures\\public\\lectures\\T11 - Database\\T11.pdf"
     },
     "1720154340-1688849861230905": {
       "id": "1720154340-1688849861230905",
