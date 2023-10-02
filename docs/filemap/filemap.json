@@ -26,8 +26,8 @@
       "id": "1760289687-1125899907872385",
       "name": "filemap.json",
       "parentId": "1760289687-281474977963444",
-      "size": 49974,
-      "modDate": "2023-09-25T01:49:25.399Z",
+      "size": 54347,
+      "modDate": "2023-09-28T01:34:44.325Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1760289687-281474977963446": {
@@ -52,7 +52,8 @@
         "1760289687-281474978298111",
         "1760289687-1407374885145532",
         "1760289687-6755399441352822",
-        "1760289687-562949955057924"
+        "1760289687-562949955057924",
+        "1760289687-844424930262078"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures",
       "parentId": "1760289687-281474977963443"
@@ -1196,7 +1197,7 @@
       "childrenIds": [
         "1760289687-844424931818679",
         "1760289687-5348024557684338",
-        "1760289687-4222124651951237",
+        "1760289687-844424930262077",
         "1760289687-2251799813914529"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T18 - Blockchain 101",
@@ -1314,25 +1315,134 @@
       "id": "1760289687-5348024557684338",
       "name": "T18.html",
       "parentId": "1760289687-562949955057924",
-      "size": 126010,
-      "modDate": "2023-09-28T01:34:21.826Z",
+      "size": 125903,
+      "modDate": "2023-10-02T02:18:55.619Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T18 - Blockchain 101\\T18.html"
     },
-    "1760289687-4222124651951237": {
-      "id": "1760289687-4222124651951237",
+    "1760289687-844424930262077": {
+      "id": "1760289687-844424930262077",
       "name": "T18.md",
       "parentId": "1760289687-562949955057924",
-      "size": 7421,
-      "modDate": "2023-09-28T01:32:57.500Z",
+      "size": 7314,
+      "modDate": "2023-10-02T02:18:18.039Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T18 - Blockchain 101\\T18.md"
     },
     "1760289687-2251799813914529": {
       "id": "1760289687-2251799813914529",
       "name": "T18.pdf",
       "parentId": "1760289687-562949955057924",
-      "size": 3645908,
-      "modDate": "2023-09-28T01:34:35.326Z",
+      "size": 3645886,
+      "modDate": "2023-10-02T02:19:07.148Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T18 - Blockchain 101\\T18.pdf"
+    },
+    "1760289687-844424930262078": {
+      "id": "1760289687-844424930262078",
+      "name": "T19 - Smart Contract",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-844424930262080",
+        "1760289687-5066549580937943",
+        "1760289687-844424930262079",
+        "1760289687-6755399441181529"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract",
+      "parentId": "1760289687-281474977963446"
+    },
+    "1760289687-844424930262080": {
+      "id": "1760289687-844424930262080",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-1688849860394049",
+        "1760289687-844424930262082",
+        "1760289687-844424930262083",
+        "1760289687-2533274790526022",
+        "1760289687-1125899906972743",
+        "1760289687-844424930262088",
+        "1760289687-1125899906972745"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img",
+      "parentId": "1760289687-844424930262078"
+    },
+    "1760289687-1688849860394049": {
+      "id": "1760289687-1688849860394049",
+      "name": "class.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 76319,
+      "modDate": "2023-10-02T02:18:18.040Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\class.jpg"
+    },
+    "1760289687-844424930262082": {
+      "id": "1760289687-844424930262082",
+      "name": "sc.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 27437,
+      "modDate": "2023-10-02T02:18:18.040Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\sc.jpg"
+    },
+    "1760289687-844424930262083": {
+      "id": "1760289687-844424930262083",
+      "name": "sc2.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 70929,
+      "modDate": "2023-10-02T02:18:18.041Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\sc2.jpg"
+    },
+    "1760289687-2533274790526022": {
+      "id": "1760289687-2533274790526022",
+      "name": "sc3.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 168902,
+      "modDate": "2023-10-02T02:18:18.042Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\sc3.jpg"
+    },
+    "1760289687-1125899906972743": {
+      "id": "1760289687-1125899906972743",
+      "name": "sc4.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 83102,
+      "modDate": "2023-10-02T02:18:18.043Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\sc4.jpg"
+    },
+    "1760289687-844424930262088": {
+      "id": "1760289687-844424930262088",
+      "name": "solidity1.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 97359,
+      "modDate": "2023-10-02T02:18:18.044Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\solidity1.jpg"
+    },
+    "1760289687-1125899906972745": {
+      "id": "1760289687-1125899906972745",
+      "name": "solidity2.jpg",
+      "parentId": "1760289687-844424930262080",
+      "size": 73275,
+      "modDate": "2023-10-02T02:18:18.045Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\img\\solidity2.jpg"
+    },
+    "1760289687-5066549580937943": {
+      "id": "1760289687-5066549580937943",
+      "name": "T19.html",
+      "parentId": "1760289687-844424930262078",
+      "size": 110347,
+      "modDate": "2023-10-02T02:19:32.057Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\T19.html"
+    },
+    "1760289687-844424930262079": {
+      "id": "1760289687-844424930262079",
+      "name": "T19.md",
+      "parentId": "1760289687-844424930262078",
+      "size": 2900,
+      "modDate": "2023-10-02T02:18:18.039Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\T19.md"
+    },
+    "1760289687-6755399441181529": {
+      "id": "1760289687-6755399441181529",
+      "name": "T19.pdf",
+      "parentId": "1760289687-844424930262078",
+      "size": 615084,
+      "modDate": "2023-10-02T02:19:25.175Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\T19.pdf"
     },
     "1760289687-281474977963554": {
       "id": "1760289687-281474977963554",
