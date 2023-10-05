@@ -26,8 +26,8 @@
       "id": "1760289687-1125899907872385",
       "name": "filemap.json",
       "parentId": "1760289687-281474977963444",
-      "size": 54347,
-      "modDate": "2023-09-28T01:34:44.325Z",
+      "size": 58929,
+      "modDate": "2023-10-02T02:19:44.608Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\filemap\\filemap.json"
     },
     "1760289687-281474977963446": {
@@ -53,7 +53,8 @@
         "1760289687-1407374885145532",
         "1760289687-6755399441352822",
         "1760289687-562949955057924",
-        "1760289687-844424930262078"
+        "1760289687-844424930262078",
+        "1760289687-1125899907029950"
       ],
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures",
       "parentId": "1760289687-281474977963443"
@@ -1443,6 +1444,70 @@
       "size": 615084,
       "modDate": "2023-10-02T02:19:25.175Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T19 - Smart Contract\\T19.pdf"
+    },
+    "1760289687-1125899907029950": {
+      "id": "1760289687-1125899907029950",
+      "name": "T20 - SC Applications",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-1407374885369677",
+        "1760289687-7318349395234677",
+        "1760289687-1125899907029951",
+        "1760289687-4222124652485059"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications",
+      "parentId": "1760289687-281474977963446"
+    },
+    "1760289687-1407374885369677": {
+      "id": "1760289687-1407374885369677",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-2814749768923052",
+        "1760289687-9288674231616736"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\img",
+      "parentId": "1760289687-1125899907029950"
+    },
+    "1760289687-2814749768923052": {
+      "id": "1760289687-2814749768923052",
+      "name": "erc721_1.png",
+      "parentId": "1760289687-1407374885369677",
+      "size": 108892,
+      "modDate": "2023-09-25T01:49:08.590Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\img\\erc721_1.png"
+    },
+    "1760289687-9288674231616736": {
+      "id": "1760289687-9288674231616736",
+      "name": "nft1.png",
+      "parentId": "1760289687-1407374885369677",
+      "size": 21188,
+      "modDate": "2023-09-25T01:49:08.590Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\img\\nft1.png"
+    },
+    "1760289687-7318349395234677": {
+      "id": "1760289687-7318349395234677",
+      "name": "T20.html",
+      "parentId": "1760289687-1125899907029950",
+      "size": 116352,
+      "modDate": "2023-10-05T01:37:40.150Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\T20.html"
+    },
+    "1760289687-1125899907029951": {
+      "id": "1760289687-1125899907029951",
+      "name": "T20.md",
+      "parentId": "1760289687-1125899907029950",
+      "size": 5058,
+      "modDate": "2023-10-05T01:36:11.209Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\T20.md"
+    },
+    "1760289687-4222124652485059": {
+      "id": "1760289687-4222124652485059",
+      "name": "T20.pdf",
+      "parentId": "1760289687-1125899907029950",
+      "size": 202481,
+      "modDate": "2023-10-05T01:37:50.973Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\itforie-66\\lectures\\public\\lectures\\T20 - SC Applications\\T20.pdf"
     },
     "1760289687-281474977963554": {
       "id": "1760289687-281474977963554",
